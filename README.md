@@ -5,7 +5,7 @@ A clean, minimal ML-powered email reply classification system that categorizes p
 - **Negative**: Not interested / rejection  
 - **Neutral**: Non-committal or irrelevant
 
-## 📁 Minimal Project Structure
+##  Minimal Project Structure
 
 ```
 SvaraAI-Reply-Classifier/
@@ -21,7 +21,7 @@ SvaraAI-Reply-Classifier/
     └── notebook.ipynb        # Analysis and visualization
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Install dependencies**:
    ```bash
@@ -45,23 +45,29 @@ SvaraAI-Reply-Classifier/
         -d '{"text": "Looking forward to the demo!"}'
    ```
 
-## 🎯 API Endpoints
+##  API Endpoints
 
 - `POST /predict` - Classify a single email reply
 - `POST /predict-batch` - Classify multiple replies
 - `GET /health` - Check API health
 - `GET /model-info` - Get model information
 
-## 📊 Analysis
+##  Analysis
 
 Open `docs/notebook.ipynb` in Jupyter to explore:
 - Dataset analysis and visualization
 - Model performance comparison
 - Text characteristics by category
 
-## 📦 Production Ready
+##  Production Ready
 
 - High accuracy (99.5% F1 score)
 - Docker containerization
 - Error handling and logging
 - Interactive API documentation
+
+- 
+- ## Video Link
+[Download and watch the video](https://drive.google.com/file/d/1htdM7b5RN123mk-gf_EAgWxfN1FVS_3C/view?usp=drive_link)
+
+
