@@ -67,7 +67,7 @@ Open `docs/notebook.ipynb` in Jupyter to explore:
 - Interactive API documentation
 
 - 
-- ## Video Link
-[Download and watch the video](https://drive.google.com/file/d/1htdM7b5RN123mk-gf_EAgWxfN1FVS_3C/view?usp=drive_link)
+ ## Video Link
+[watch the video](https://drive.google.com/file/d/1htdM7b5RN123mk-gf_EAgWxfN1FVS_3C/view?usp=drive_link)
 
 
